@@ -12,7 +12,7 @@ import secondSource
 
 from MyControl import *
 """
-测试
+测试1
 """
 dirname = os.path.dirname(PySide2.__file__)
 plugin_path = os.path.join(dirname, 'plugins', 'platforms')
